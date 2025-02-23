@@ -1,0 +1,1 @@
+Utility to help in analyzing prices and alerts
